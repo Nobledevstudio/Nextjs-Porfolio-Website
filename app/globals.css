@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+@theme{
+  --color-dark-theme: #0D1117;
+  --color-dark-theme-1: #1E1E2F;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --font-outfit: "Outfit", sans-serif;
+  --font-ovo: "Ovo", serif;
+}
