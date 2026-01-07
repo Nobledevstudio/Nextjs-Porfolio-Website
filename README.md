@@ -36,10 +36,6 @@ Check out the live version of my portfolio here:
 
 ---
 
-
-
----
-
 ## 📂 Project Structure
 
 ├─ public/ # Static assets like images, icons, screenshots
