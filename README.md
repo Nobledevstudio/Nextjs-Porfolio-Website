@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## 🚀 Live Demo
 
 Check out the live version of my portfolio here:  
-[View Live Portfolio](https://your-netlify-link.netlify.app)
+[View Live Portfolio](https://nobledevstudio.netlify.app/)
 
 ---
 
